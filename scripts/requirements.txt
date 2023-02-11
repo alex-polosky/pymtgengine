@@ -1,0 +1,2 @@
+# mtgjson5
+# - git+https://github.com/mtgjson/mtgjson.git@c752beada628baf43b8b64dbc45ae82bf117d006
